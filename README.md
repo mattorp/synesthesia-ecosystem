@@ -1,6 +1,8 @@
 # Synesthesia Community Efforts
 
-This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). Other relevant tools not directly connected to Synesthesia are listed as well.
+This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live).
+
+A central part of this repository is providing an overview of the world of Synesthesia, so links to other sources are not limited to the community's creations. Which also reduces the risk of reimplementing existing tools or frameworks by accident.
 
 ## Contributing
 
