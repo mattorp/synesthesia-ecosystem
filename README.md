@@ -1,10 +1,18 @@
 # Synesthesia Community Efforts
 
-This is a place to share, discuss, request, track and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). Other helpful tools not directly connected to Synesthesia are listed as well.
+This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). Other helpful tools not directly connected to Synesthesia are listed as well.
 
 ## Contributing
 
-The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools channel under coding and the other channels or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions). Other simple ways are to ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues). The #feature-suggestions channel in Discord may prove an inspiration.
+The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools and other #channels, or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions).
+
+Other ways are to
+
+- ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues),
+- edit the [README](../README.md)
+- or add new files for more in-depth information.
+
+The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may prove an inspiration. Some of these features can be implemented outside Synesthesia, which lets the team focus on core features instead.
 
 ## Table of Contents
 
