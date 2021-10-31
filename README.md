@@ -9,21 +9,11 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 ## TOC
 
 - [Contributing](#contributing)
-- [TOC](#toc)
+- [Table of Contents](#table-of-contents)
 - [Guides](#guides)
 - [Tools](#tools)
   - [VSCode extensions](#vscode-extensions)
     - [glsl canvas](#glsl-canvas)
-- [Projects](#projects)
-- [FAQ](#faq)
-[glsl canvas](#glsl-canvas)
-- [Projects](#projects)
-- [FAQ](#faq)
-[VSCode extensions](#glsl-canvas)
-[glsl-canvas](#glsl-canvas)
-- [Projects](#projects)
-- [FAQ](#faq)
-[glsl-canvas](#glsl-canvas)
 - [Projects](#projects)
 - [FAQ](#faq)
 
