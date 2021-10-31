@@ -35,9 +35,11 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 
 #### glsl canvas
 
+> The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
+
 [Link](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
 
-glsl canvas requires small adjustments to the file, which will be solved by [#3][i3].
+_glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
 [i3]: https://github.com/mattorp/synesthesia-community-efforts/issues/3
 
