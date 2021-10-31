@@ -6,7 +6,7 @@ A central part of this repository is providing an overview of the world of Synes
 
 ## Contributing
 
-The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools and other #channels, or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions).
+The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools and other #channels, or in [this repo's discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions).
 
 Other ways are to
 
@@ -61,10 +61,9 @@ _glsl canvas requires small adjustments to the file, which will be solved by [#3
 
 #### syn-games
 
->A suite of tools that allow various interactions with Synethesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
+>A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
 
-_This repo will be heavily refactored soon. It was a prototype for a hobby project, but some of the toolings have wider use, so it will be split up into smaller packages. The documentation was mostly for my own use, so I recommend waiting till this has been improved before exploring this._
-
+_This repo will be refactored into smaller packages soon, and the documentation improved._
 [syn-games](https://github.com/mattorp/syn-games)
 
 ## FAQ
