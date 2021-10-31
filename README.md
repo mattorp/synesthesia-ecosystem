@@ -14,6 +14,8 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 - [Tools](#tools)
   - [VSCode extensions](#vscode-extensions)
     - [glsl canvas](#glsl-canvas)
+  - [APIs](#apis)
+    - [syn-server](#syn-server)
 - [Projects](#projects)
   - [Games](#games)
     - [syn-games](#syn-games)
@@ -34,6 +36,14 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
 [i3]: https://github.com/mattorp/synesthesia-community-efforts/issues/3
+
+### APIs
+
+#### syn-server
+
+>This functions as a REST endpoint to communicate with Synesthesia.
+
+[Link](https://github.com/mattorp/syn-server)
 
 ## Projects
 
