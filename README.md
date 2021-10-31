@@ -4,7 +4,7 @@ This is a place to request, track and provide feedback for community efforts for
 
 ## Contributing
 
-The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools channel under coding and the other channels or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions). Other simple ways are to ask for, list, describe, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues). The #feature-suggestions channel in Discord may prove an inspiration.
+The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools channel under coding and the other channels or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions). Other simple ways are to ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues). The #feature-suggestions channel in Discord may prove an inspiration.s
 
 ## Guides
 
