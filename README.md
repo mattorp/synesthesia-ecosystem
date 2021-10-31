@@ -12,9 +12,18 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 - [TOC](#toc)
 - [Guides](#guides)
 - [Tools](#tools)
-  - [GLSL](#glsl)
-    - [VSCode extensions](#vscode-extensions)
-      - [glsl canvas](#glsl-canvas)
+  - [VSCode extensions](#vscode-extensions)
+    - [glsl canvas](#glsl-canvas)
+- [Projects](#projects)
+- [FAQ](#faq)
+[glsl canvas](#glsl-canvas)
+- [Projects](#projects)
+- [FAQ](#faq)
+[VSCode extensions](#glsl-canvas)
+[glsl-canvas](#glsl-canvas)
+- [Projects](#projects)
+- [FAQ](#faq)
+[glsl-canvas](#glsl-canvas)
 - [Projects](#projects)
 - [FAQ](#faq)
 
@@ -22,15 +31,13 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 
 ## Tools
 
-### GLSL
+### VSCode extensions
 
-#### VSCode extensions
-
-##### glsl canvas
+#### glsl canvas
 
 [Link](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
 
-This requires small adjustments to the file, which will be solved by [#3][i3].
+glsl canvas requires small adjustments to the file, which will be solved by [#3][i3].
 
 [i3]: https://github.com/mattorp/synesthesia-community-efforts/issues/3
 
