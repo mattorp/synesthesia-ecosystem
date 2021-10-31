@@ -1,4 +1,4 @@
-# Synesthesia Community Efforts
+p# Synesthesia Community Efforts
 
 This is a place to request, track and provide feedback for community efforts for [Synesthesia](https://synesthesia.live).
 
@@ -9,5 +9,19 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 ## Guides
 
 ## Tools
+
+### GLSL
+
+#### VSCode extensions
+
+#### glsl canvas
+
+[Link](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
+
+This requires small adjustments to the file, which will be solved by [#3][i3].
+
+[i3]: https://github.com/mattorp/synesthesia-community-efforts/issues/3
+
+## Projects
 
 ## FAQ
