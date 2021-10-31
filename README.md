@@ -1,6 +1,6 @@
 # Synesthesia Community Efforts
 
-This is a place to request, track and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). Other helpful tools not directly connected to Synesthesia are listed as well.
+This is a place to share, discuss, request, track and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). Other helpful tools not directly connected to Synesthesia are listed as well.
 
 ## Contributing
 
