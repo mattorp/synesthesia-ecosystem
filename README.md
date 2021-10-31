@@ -1,10 +1,19 @@
 # Synesthesia Community Efforts
 
+- [Contributing](#contributing)
+- [Guides](#guides)
+- [Tools](#tools)
+  - [GLSL](#glsl)
+    - [VSCode extensions](#vscode-extensions)
+      - [glsl canvas](#glsl-canvas)
+- [Projects](#projects)
+- [FAQ](#faq)
+
 This is a place to request, track and provide feedback for community efforts for [Synesthesia](https://synesthesia.live).
 
 ## Contributing
 
-The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools channel under coding and the other channels or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions). Other simple ways are to ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues). The #feature-suggestions channel in Discord may prove an inspiration.s
+The simplest way to contribute is to join the discussion in the existing [Discord community](https://discord.gg/dMVvCgXxtU) in the #tools channel under coding and the other channels or in [this repos discussion tab](https://github.com/mattorp/synesthesia-community-efforts/discussions). Other simple ways are to ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues). The #feature-suggestions channel in Discord may prove an inspiration.
 
 ## Guides
 
@@ -14,7 +23,7 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 
 #### VSCode extensions
 
-#### glsl canvas
+##### glsl canvas
 
 [Link](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
 
