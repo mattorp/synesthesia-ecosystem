@@ -21,6 +21,8 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
 - [Guides](#guides)
+  - [Glitch Art](#glitch-art)
+    - [Circuit Bending](#circuit-bending)
 - [Tools](#tools)
   - [VSCode extensions](#vscode-extensions)
     - [glsl canvas](#glsl-canvas)
@@ -32,6 +34,13 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [FAQ](#faq)
 
 ## Guides
+
+### Glitch Art
+
+#### Circuit Bending
+
+- [Circuit Bending a Video Mixer for Glitch Art by
+allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
 
 ## Tools
 
@@ -52,7 +61,7 @@ _glsl canvas requires small adjustments to the file, which will be solved by [#3
 #### syn-server
 
 >This functions as a REST endpoint to communicate with Synesthesia.
-
+Circuit Bending a Video Mixer for Glitch Art
 [syn-server](https://github.com/mattorp/syn-server)
 
 ## Projects
