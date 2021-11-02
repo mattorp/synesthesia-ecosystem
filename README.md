@@ -11,7 +11,7 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 Other ways are to
 
 - ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-community-efforts/issues),
-- edit the [README](../README.md)
+- edit the [README](./README.md)
 - or add new files for more in-depth information.
 
 The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may prove an inspiration. Some of these features can be implemented outside Synesthesia, which lets the team focus on core features instead.
