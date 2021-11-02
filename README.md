@@ -20,7 +20,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 - [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
-- [Guides](#guides)
+- [Art style](#art-style)
   - [Glitch Art](#glitch-art)
     - [Circuit Bending](#circuit-bending)
     - [Text](#text)
@@ -34,7 +34,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
     - [syn-games](#syn-games)
 - [FAQ](#faq)
 
-## Guides
+## Art style
 
 ### Glitch Art
 
