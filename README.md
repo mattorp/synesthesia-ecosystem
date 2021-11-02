@@ -59,8 +59,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 #### Circuit Bending
 
-- [Circuit Bending a Video Mixer for Glitch Art by
-allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
+- [Circuit Bending a Video Mixer for Glitch Art by allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
 
 #### Text
 
@@ -157,7 +156,7 @@ _glsl canvas requires small adjustments to the file, which will be solved by [#3
 #### syn-server
 
 >This functions as a REST endpoint to communicate with Synesthesia.
-Circuit Bending a Video Mixer for Glitch Art
+
 [syn-server](https://github.com/mattorp/syn-server)
 
 ## Projects
