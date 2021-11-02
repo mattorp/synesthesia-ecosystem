@@ -34,6 +34,9 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [TouchDesigner](#touchdesigner)
   - [Houdini](#houdini)
   - [OctaneRender](#octanerender)
+  - [Spout](#spout)
+  - [Syphon Recorder](#syphon-recorder)
+  - [Sound Siphon](#sound-siphon)
   - [VSCode extensions](#vscode-extensions)
     - [glsl canvas](#glsl-canvas)
   - [APIs](#apis)
@@ -77,32 +80,65 @@ allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
 
 <https://obsproject.com>
 
+- Help
+  - <https://obsproject.com/help>
+  
 ### NDI
 
 <https://www.ndi.tv>
 
+- Help
+  - <https://forums.newtek.com/#ndi-network-device-interface.360>
+
 ### Resolume
 
-<https://resolume.com/footage>
+<https://resolume.com/>
+
+- Help
+  - <https://resolume.com/training>
+  - <https://resolume.com/support?avenue-arena>
+  - <https://resolume.com/support?wire>
 
 ### MadMapper
 
 <https://madmapper.com>
 
+- Help
+  - <https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg>
+  - <http://forum.garagecube.com/viewforum.php?f=31>
+
 ### TouchDesigner
 
 <https://derivative.ca>
+
+- Help
+  - <https://derivative.ca/learn>
 
 ### Houdini
 
 <https://www.sidefx.com>
 
-- Tutorials
+- Help
   - <https://www.sidefx.com/tutorials/>
 
 ### OctaneRender
 
 <https://home.otoy.com/render/octane-render/>
+
+- Help
+  - <https://docs.otoy.com/Portal/Home.htm>
+
+### Spout
+
+<https://spout.zeal.co>
+
+### Syphon Recorder
+
+<http://syphon.v002.info>
+
+### Sound Siphon
+
+<https://staticz.com/soundsiphon/>
 
 ### VSCode extensions
 
