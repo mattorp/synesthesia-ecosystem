@@ -2,7 +2,7 @@
 
 This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live).
 
-A central part of this repository is providing an overview of the world of Synesthesia, so links to other sources are not limited to the community's creations. Which also reduces the risk of reimplementing existing tools or frameworks by accident.
+A central part of this repository is providing an overview of the world of Synesthesia, so links to other sources are not limited to the community's creations. Which also reduces the risk of reimplementing existing tools or frameworks by accident, group guides by tools or frameworks, and make users aware of some of the tools available.
 
 ## Contributing
 
@@ -20,11 +20,20 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 - [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
+- [GLSL](#glsl)
+  - [Guides](#guides)
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
     - [Circuit Bending](#circuit-bending)
     - [Text](#text)
 - [Tools](#tools)
+  - [OBS](#obs)
+  - [NDI](#ndi)
+  - [Resolume](#resolume)
+  - [MadMapper](#madmapper)
+  - [TouchDesigner](#touchdesigner)
+  - [Houdini](#houdini)
+  - [OctaneRender](#octanerender)
   - [VSCode extensions](#vscode-extensions)
     - [glsl canvas](#glsl-canvas)
   - [APIs](#apis)
@@ -33,6 +42,21 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [Games](#games)
     - [syn-games](#syn-games)
 - [FAQ](#faq)
+[https://derivative.ca](#httpsderivativeca)
+  - [VSCode extensions](#vscode-extensions)
+    - [glsl canvas](#glsl-canvas)
+  - [APIs](#apis)
+    - [syn-server](#syn-server)
+- [Projects](#projects)
+  - [Games](#games)
+    - [syn-games](#syn-games)
+- [FAQ](#faq)
+
+## GLSL
+
+### Guides
+
+<https://thebookofshaders.com> as recommended on <https://production.synesthesia.live/faq>
 
 ## Art style
 
@@ -48,6 +72,37 @@ allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
 - [Broken Unicode by UFFFD](https://ufffd.com/zalgo/)
 
 ## Tools
+
+### OBS
+
+<https://obsproject.com>
+
+### NDI
+
+<https://www.ndi.tv>
+
+### Resolume
+
+<https://resolume.com/footage>
+
+### MadMapper
+
+<https://madmapper.com>
+
+### TouchDesigner
+
+<https://derivative.ca>
+
+### Houdini
+
+<https://www.sidefx.com>
+
+- Tutorials
+  - <https://www.sidefx.com/tutorials/>
+
+### OctaneRender
+
+<https://home.otoy.com/render/octane-render/>
 
 ### VSCode extensions
 
