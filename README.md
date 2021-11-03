@@ -1,4 +1,4 @@
-# Synesthesia Community Efforts
+# Synesthesia Ecosystem
 
 This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). 
 
