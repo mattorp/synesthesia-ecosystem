@@ -1,10 +1,8 @@
 # Synesthesia Ecosystem
 
-This is a place to share, discuss, request, track, and provide feedback for community efforts for [Synesthesia](https://synesthesia.live). 
+This is a place to share, discuss, request, track, and provide feedback for community efforts, tools, guides, etc., for [Synesthesia](https://synesthesia.live). 
 
-The enhancement issues are not meant to be implemented here, but they can link to the implementation, discussions, further descriptions, etc. 
-
-A central part of this repository is providing an overview of the world of Synesthesia, so links to other sources are not limited to the community's creations. This also helps grouping guides by tools or frameworks, make users aware of some of the tools available, and reduce the risk of reimplementing existing tools or frameworks by accident.
+The enhancement issues are not meant to be implemented here, but they can link to the implementation, discussions, further descriptions, etc. The main idea with the tag is to provide an overview of feature suggestion and ease collaboration for anyone who wants to help or are already implementing the features.
 
 ## Contributing
 
