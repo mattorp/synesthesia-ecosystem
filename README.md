@@ -171,3 +171,5 @@ _This repo will be refactored into smaller packages soon, and the documentation 
 [syn-games](https://github.com/mattorp/syn-games)
 
 ## FAQ
+
+## Footnotes
