@@ -1,6 +1,6 @@
 # Synesthesia Ecosystem
 
-This is a place to share, discuss, request, track, and provide feedback for community efforts, tools, guides, etc., for [Synesthesia](https://synesthesia.live). 
+This is a place to share, discuss, request, track, and provide feedback for community efforts, tools, guides, etc., for [Synesthesia](https://synesthesia.live).
 
 The enhancement issues are not meant to be implemented here, but they can link to the implementation, discussions, further descriptions, etc. The main idea with the tag is to provide an overview of feature suggestion and ease collaboration for anyone who wants to help or are already implementing the features.
 
@@ -46,6 +46,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [Games](#games)
     - [syn-games](#syn-games)
 - [FAQ](#faq)
+- [Footnotes](#footnotes)
 
 ## GLSL
 
