@@ -118,7 +118,7 @@ With these tools you can send video from one application to another.
 
 [Spout](#spout) and [Syphon Recorder](#syphon-recorder) are more performant [^more-performant]. For remote sharing, you can use [NDI](#ndi).
 
-  [^more-performant]: _more performant_: the_void* on how they differ: <https://discord.com/channels/729824270913503374/904193890452660224/905209251574734909>
+  [^more-performant]: _more performant_: Syphon/Spout happens on the GPU, where as NDI forces the GPU to sync with the CPU: <https://discord.com/channels/729824270913503374/904193890452660224/905209251574734909>
 
 #### Spout
 
