@@ -24,8 +24,6 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [Guides](#guides)
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
-    - [Circuit Bending](#circuit-bending)
-    - [Text](#text)
 - [Tools](#tools)
   - [OBS](#obs)
   - [Resolume](#resolume)
@@ -58,12 +56,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ### Glitch Art
 
-#### Circuit Bending
-
 - [Circuit Bending a Video Mixer for Glitch Art by allmyfriendsaresynths](https://www.youtube.com/watch?v=AM8H7nDEtRc)
-
-#### Text
-
 - [Broken Unicode by UFFFD](https://ufffd.com/zalgo/)
 
 ## Tools
