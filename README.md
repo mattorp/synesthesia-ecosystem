@@ -20,8 +20,11 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 - [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
-- [GLSL](#glsl)
+- [Shaders](#shaders)
+  - [Libraries](#libraries)
   - [Guides](#guides)
+  - [Sources](#sources)
+- [YouTube channels](#youtube-channels)
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
 - [Tools](#tools)
@@ -46,11 +49,40 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [FAQ](#faq)
 - [Footnotes](#footnotes)
 
-## GLSL
+## Shaders
+
+### Libraries
+
+<https://www.shadertoy.com>
 
 ### Guides
 
-<https://thebookofshaders.com> as recommended on <https://production.synesthesia.live/faq>
+- [Synesthesia Resources](https://synesthesia.live/docs/resources/syn_resources.html)
+
+- [The Book of Shaders](https://thebookofshaders.com)
+
+> This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+
+- [The principles of painting with maths](https://www.youtube.com/watch?v=0ifChJ0nJfM)
+
+- [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
+
+- [Inigo Quilez](https://www.iquilezles.org/index.html)
+
+- [Daniel Shiffman](https://shiffman.net)
+
+- [Alan Zucconi](https://www.alanzucconi.com)
+
+### Sources
+
+## YouTube channels
+
+- [Synesthesia Live](https://www.youtube.com/channel/UCN91NOZFK06VxOMbFw_-E2g/)
+- [allmyfriendsaresynths](https://www.youtube.com/c/allmyfriendsaresynths)
+- [YOVOZOL](https://www.youtube.com/c/Yovozol)
+- [Purple Bee TV](https://www.youtube.com/c/PurpleBeeTV)
+- [The Coding Train](https://www.youtube.com/thecodingtrain)
+- [Entagma](https://www.youtube.com/c/Entagma)
 
 ## Art style
 
