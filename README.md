@@ -23,7 +23,6 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Shaders](#shaders)
   - [Libraries](#libraries)
   - [Guides](#guides)
-  - [Sources](#sources)
 - [YouTube channels](#youtube-channels)
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
@@ -72,8 +71,6 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Daniel Shiffman](https://shiffman.net)
 
 - [Alan Zucconi](https://www.alanzucconi.com)
-
-### Sources
 
 ## YouTube channels
 
