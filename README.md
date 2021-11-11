@@ -71,6 +71,9 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Daniel Shiffman](https://shiffman.net)
 
 - [Alan Zucconi](https://www.alanzucconi.com)
+   >Answers a lot of questions I've had about shiny shit
+   >
+   > \- @uFFFD
 
 ## YouTube channels
 
