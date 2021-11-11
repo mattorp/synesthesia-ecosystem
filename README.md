@@ -27,25 +27,12 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
 - [Tools](#tools)
-  - [OBS](#obs)
-  - [Resolume](#resolume)
-  - [MadMapper](#madmapper)
-  - [TouchDesigner](#touchdesigner)
-  - [Houdini](#houdini)
-  - [OctaneRender](#octanerender)
   - [Texture sharing](#texture-sharing)
-    - [Spout](#spout)
-    - [Syphon Recorder](#syphon-recorder)
-    - [NDI](#ndi)
   - [Audio sharing](#audio-sharing)
-    - [Sound Siphon](#sound-siphon)
   - [VSCode extensions](#vscode-extensions)
-    - [glsl-canvas](#glsl-canvas)
   - [APIs](#apis)
-    - [syn-server](#syn-server)
 - [Projects](#projects)
   - [Games](#games)
-    - [syn-games](#syn-games)
 - [FAQ](#faq)
 - [Footnotes](#footnotes)
 
@@ -53,7 +40,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ### Libraries
 
-[Shadertoy](https://www.shadertoy.com)
+- [Shadertoy](https://www.shadertoy.com)
 
 ### Guides
 
@@ -87,32 +74,22 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ## Tools
 
-### [OBS](https://obsproject.com)
+- [OBS](https://obsproject.com)
+  - [/help](https://obsproject.com/help)
+- [Resolume](https://resolume.com/)
 
-- [/help](https://obsproject.com/help)
-
-### [Resolume](https://resolume.com/)
-
-- [/training](https://resolume.com/training)
-- [/avenue-arena](https://resolume.com/support?avenue-arena)
-- [/wire](https://resolume.com/support?wire)
-
-### [MadMapper](https://madmapper.com)
-
-- [MadMapper YouTube channel](https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg)
-- [garageCube](http://forum.garagecube.com/viewforum.php?f=31)
-
-### [TouchDesigner](https://derivative.ca)
-
-- [/learn](https://derivative.ca/learn)
-
-### [Houdini](https://www.sidefx.com)
-
-- [/tutorials](https://www.sidefx.com/tutorials/)
-
-### [OctaneRender](https://home.otoy.com/render/octane-render/)
-
-- [/portal](https://docs.otoy.com/Portal/Home.htm)
+  - [/training](https://resolume.com/training)
+  - [/avenue-arena](https://resolume.com/support?avenue-arena)
+  - [/wire](https://resolume.com/support?wire)
+- [MadMapper](https://madmapper.com)
+  - [/youTube](https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg)
+  - [garageCube](http://forum.garagecube.com/viewforum.php?f=31)
+- [TouchDesigner](https://derivative.ca)
+  - [/learn](https://derivative.ca/learn)
+- [Houdini](https://www.sidefx.com)
+  - [/tutorials](https://www.sidefx.com/tutorials/)
+- [OctaneRender](https://home.otoy.com/render/octane-render/)
+  - [/portal](https://docs.otoy.com/Portal/Home.htm)
 
 ### Texture sharing
 
@@ -122,43 +99,36 @@ With these tools you can send video from one application to another.
 
   [^more-performant]: _more performant_: [Syphon/Spout happens on the GPU, where as NDI forces the GPU to sync with the CPU](https://discord.com/channels/729824270913503374/904193890452660224/905209251574734909)
 
-#### [Spout](https://spout.zeal.co)
+- [Spout](https://spout.zeal.co)
+- [Syphon Recorder](http://syphon.v002.info)
+- [NDI](https://www.ndi.tv)
 
-#### [Syphon Recorder](http://syphon.v002.info)
-
-#### [NDI](https://www.ndi.tv)
-
-- [/ndi-developer-zone](https://forums.newtek.com/forums/ndi-developer-zone.363/)
+  - [/ndi-developer-zone](https://forums.newtek.com/forums/ndi-developer-zone.363/)
 
 ### Audio sharing
 
-#### [Sound Siphon](https://staticz.com/soundsiphon/)
+- [Sound Siphon](https://staticz.com/soundsiphon/)
 
 ### VSCode extensions
 
-#### [glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
-
-> The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
-
-_glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
+- [glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
+  > The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
+- _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
 [i3]: https://github.com/mattorp/synesthesia-ecosystem/issues/3
 
 ### APIs
 
-#### [syn-server](https://github.com/mattorp/syn-server)
-
->This functions as a REST endpoint to communicate with Synesthesia.
+- [syn-server](https://github.com/mattorp/syn-server)
+  >This functions as a REST endpoint to communicate with Synesthesia.
 
 ## Projects
 
 ### Games
 
-#### [syn-games](https://github.com/mattorp/syn-games)
-
->A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
-
-_This repo will be refactored into smaller packages soon, and the documentation improved._
+- [syn-games](https://github.com/mattorp/syn-games)
+  >A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
+- _This repo will be refactored into smaller packages soon, and the documentation improved._
 
 ## FAQ
 
