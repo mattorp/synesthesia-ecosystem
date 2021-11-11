@@ -37,9 +37,10 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
     - [Spout](#spout)
     - [Syphon Recorder](#syphon-recorder)
     - [NDI](#ndi)
-  - [Sound Siphon](#sound-siphon)
+  - [Audio sharing](#audio-sharing)
+    - [Sound Siphon](#sound-siphon)
   - [VSCode extensions](#vscode-extensions)
-    - [glsl canvas](#glsl-canvas)
+    - [glsl-canvas](#glsl-canvas)
   - [APIs](#apis)
     - [syn-server](#syn-server)
 - [Projects](#projects)
@@ -52,24 +53,17 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ### Libraries
 
-<https://www.shadertoy.com>
+[Shadertoy](https://www.shadertoy.com)
 
 ### Guides
 
 - [Synesthesia Resources](https://synesthesia.live/docs/resources/syn_resources.html)
-
 - [The Book of Shaders](https://thebookofshaders.com)
-
-> This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
-
+  > This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [The principles of painting with maths](https://www.youtube.com/watch?v=0ifChJ0nJfM)
-
 - [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
-
 - [Inigo Quilez](https://www.iquilezles.org/index.html)
-
 - [Daniel Shiffman](https://shiffman.net)
-
 - [Alan Zucconi](https://www.alanzucconi.com)
    >Answers a lot of questions I've had about shiny shit
    >
@@ -93,50 +87,32 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ## Tools
 
-### OBS
+### [OBS](https://obsproject.com)
 
-<https://obsproject.com>
+- [/help](https://obsproject.com/help)
 
-- Help
-  - <https://obsproject.com/help>
+### [Resolume](https://resolume.com/)
 
-### Resolume
+- [/training](https://resolume.com/training)
+- [/avenue-arena](https://resolume.com/support?avenue-arena)
+- [/wire](https://resolume.com/support?wire)
 
-<https://resolume.com/>
+### [MadMapper](https://madmapper.com)
 
-- Help
-  - <https://resolume.com/training>
-  - <https://resolume.com/support?avenue-arena>
-  - <https://resolume.com/support?wire>
+- [MadMapper YouTube channel](https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg)
+- [garageCube](http://forum.garagecube.com/viewforum.php?f=31)
 
-### MadMapper
+### [TouchDesigner](https://derivative.ca)
 
-<https://madmapper.com>
+- [/learn](https://derivative.ca/learn)
 
-- Help
-  - <https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg>
-  - <http://forum.garagecube.com/viewforum.php?f=31>
+### [Houdini](https://www.sidefx.com)
 
-### TouchDesigner
+- [/tutorials](https://www.sidefx.com/tutorials/)
 
-<https://derivative.ca>
+### [OctaneRender](https://home.otoy.com/render/octane-render/)
 
-- Help
-  - <https://derivative.ca/learn>
-
-### Houdini
-
-<https://www.sidefx.com>
-
-- Help
-  - <https://www.sidefx.com/tutorials/>
-
-### OctaneRender
-
-<https://home.otoy.com/render/octane-render/>
-
-- Help
-  - <https://docs.otoy.com/Portal/Home.htm>
+- [/portal](https://docs.otoy.com/Portal/Home.htm)
 
 ### Texture sharing
 
@@ -144,34 +120,25 @@ With these tools you can send video from one application to another.
 
 [Spout](#spout) and [Syphon Recorder](#syphon-recorder) are more performant [^more-performant]. For remote sharing, you can use [NDI](#ndi).
 
-  [^more-performant]: _more performant_: Syphon/Spout happens on the GPU, where as NDI forces the GPU to sync with the CPU: <https://discord.com/channels/729824270913503374/904193890452660224/905209251574734909>
+  [^more-performant]: _more performant_: [Syphon/Spout happens on the GPU, where as NDI forces the GPU to sync with the CPU](https://discord.com/channels/729824270913503374/904193890452660224/905209251574734909)
 
-#### Spout
+#### [Spout](https://spout.zeal.co)
 
-<https://spout.zeal.co>
+#### [Syphon Recorder](http://syphon.v002.info)
 
-#### Syphon Recorder
+#### [NDI](https://www.ndi.tv)
 
-<http://syphon.v002.info>
+- [/ndi-developer-zone](https://forums.newtek.com/forums/ndi-developer-zone.363/)
 
-#### NDI
+### Audio sharing
 
-<https://www.ndi.tv>
-
-- Help
-  - <https://forums.newtek.com/#ndi-network-device-interface.360>
-
-### Sound Siphon
-
-<https://staticz.com/soundsiphon/>
+#### [Sound Siphon](https://staticz.com/soundsiphon/)
 
 ### VSCode extensions
 
-#### glsl canvas
+#### [glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
 
 > The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
-
-[glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
 
 _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
@@ -179,22 +146,19 @@ _glsl canvas requires small adjustments to the file, which will be solved by [#3
 
 ### APIs
 
-#### syn-server
+#### [syn-server](https://github.com/mattorp/syn-server)
 
 >This functions as a REST endpoint to communicate with Synesthesia.
-
-[syn-server](https://github.com/mattorp/syn-server)
 
 ## Projects
 
 ### Games
 
-#### syn-games
+#### [syn-games](https://github.com/mattorp/syn-games)
 
 >A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
 
 _This repo will be refactored into smaller packages soon, and the documentation improved._
-[syn-games](https://github.com/mattorp/syn-games)
 
 ## FAQ
 
