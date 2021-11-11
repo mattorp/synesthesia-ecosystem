@@ -128,7 +128,7 @@ With these tools you can send video from one application to another.
 
 - [syn-games](https://github.com/mattorp/syn-games)
   >A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
-- _This repo will be refactored into smaller packages soon, and the documentation improved._
+  - _This repo will be refactored into smaller packages soon, and the documentation improved._
 
 ## FAQ
 
