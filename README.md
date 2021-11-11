@@ -10,7 +10,7 @@ The simplest way to contribute is to join the discussion in the existing [Discor
 
 Other ways are to
 
-- ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-ecosystem/issues),
+- ask for, list, describe, expand on, ..., features/resources/ideas in the [issues](https://github.com/mattorp/synesthesia-ecosystem/issues)
 - edit this file
 - or add new files for more in-depth information.
 
@@ -113,7 +113,7 @@ With these tools you can send video from one application to another.
 
 - [glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
   > The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
-- _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
+  - _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
 [i3]: https://github.com/mattorp/synesthesia-ecosystem/issues/3
 
