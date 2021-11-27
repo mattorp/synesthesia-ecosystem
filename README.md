@@ -30,6 +30,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [Texture sharing](#texture-sharing)
   - [Audio sharing](#audio-sharing)
   - [VSCode extensions](#vscode-extensions)
+  - [Scripts](#scripts)
   - [APIs](#apis)
 - [Projects](#projects)
   - [Games](#games)
@@ -116,6 +117,11 @@ With these tools you can send video from one application to another.
   - _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
 
 [i3]: https://github.com/mattorp/synesthesia-ecosystem/issues/3
+
+### Scripts
+
+- [synesthesia-scripts](https://github.com/headstash/synesthesia-scripts)
+  >Code generation utilities for developing Synesthesia scenes.
 
 ### APIs
 
