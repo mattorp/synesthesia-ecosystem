@@ -122,6 +122,9 @@ With these tools you can send video from one application to another.
 
 - [synesthesia-scripts](https://github.com/headstash/synesthesia-scripts)
   >Code generation utilities for developing Synesthesia scenes.
+- [benchmarking (draft)][i50]
+
+[i50]: https://github.com/mattorp/synesthesia-ecosystem/issues/50
 
 ### APIs
 
