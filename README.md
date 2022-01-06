@@ -34,6 +34,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
   - [APIs](#apis)
 - [Projects](#projects)
   - [Games](#games)
+- [Running on Linux](#running-on-linux)
 - [FAQ](#faq)
 - [Footnotes](#footnotes)
 
@@ -138,6 +139,23 @@ With these tools you can send video from one application to another.
 - [syn-games](https://github.com/mattorp/syn-games)
   >A suite of tools that allow various interactions with Synesthesia with the goal of creating new types of games: Sports, board games, language learning, song/music lessons, etc.
   - _This repo will be refactored into smaller packages soon, and the documentation improved._
+
+## Running on Linux
+
+It's possible to let Synesthesia run on Linux via Wine. It was tested on Arch Linux (on 2021-01-05) with Wine (version `7.0rc4-1`) and an NVIDIA GeForce GT 730 (and the NVIDIA drivers in version `470.94-2`).
+The Wine prefix needs `vcrun2015` and `corefonts` and the trick is to **remove the `libEGL.dll` shipped by the installer**, as it (for some reason) doesn't get along with Wine or the rest of its environment.
+All but Spout works fine (though Spout wasn't really debugged extensively).
+
+The following commands produce a Wine prefix which worked in at least one case:
+
+```bash
+$ WINEPREFIX=~/your-prefix-path WINEARCH=win32 wineboot -u # creates a new Wine prefix at the specified path
+$ WINEPREFIX=~/your-prefix-path winetricks -q vcrun2015 # installs Visual C++ Redistributable 2015 into the prefix
+$ WINEPREFIX=~/your-prefix-path winetricks -q corefonts # installs Microsoft core fonts into the prefix
+$ WINEPREFIX=~/your-prefix-path wine synesthesia-installer.msi # installs Synesthesia, just use all the defaults
+$ rm ~/your-prefix-path/drive_c/Program Files/Synesthesia/libEGL.dll # removes the libEGL.ddl shipped directly with Synesthesia, which for some reason doesn't work in Wine
+$ WINEPREFIX=~/your-prefix-path wine pfx/drive_c/Program\ Files/Synesthesia/Synesthesia.exe # finally start Synesthesia through Wine
+```
 
 ## FAQ
 
