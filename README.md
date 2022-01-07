@@ -142,7 +142,8 @@ With these tools you can send video from one application to another.
 
 ## Running on Linux
 
-It's possible to let Synesthesia run on Linux via Wine. It was tested on Arch Linux (on 2021-01-07) with Synesthesia (versions `1.18.1.42` and `1.19.0.51`), Wine (version `7.0rc4-1`) and an NVIDIA GeForce GT 730 (and the NVIDIA drivers in version `470.94-2`). You can also install the Wine Gecko package of your Linux distribution (e.g. for Arch Linux available as `wine-gecko`) or just let Wine download Gecko when it prompts you to (seems to be when Synesthesia updates are available).
+It's possible to let Synesthesia run on Linux via Wine. It was tested on Arch Linux (on 2021-01-07) with Synesthesia (versions `1.18.1.42` and `1.19.0.51`), Wine (version `7.0rc4-1`) and an NVIDIA GeForce GT 730 (and the NVIDIA drivers in version `470.94-2`).
+You can also install the Wine Gecko package of your Linux distribution (e.g. for Arch Linux available as `wine-gecko`) or just let Wine download Gecko when it prompts you to (seems to be when Synesthesia updates are available).
 You also likely need to change the PulseAudio stream Synesthesia is reading from to the monitor of the stream you want to route to Synesthesia (you can verify that it's working when both PulseAudio and Synesthesia show your audio signals).
 
 The Wine prefix itself needs `vcrun2015` and `corefonts` and the trick is to **remove the `libEGL.dll` shipped by the installer**, as it (for some reason) doesn't get along with Wine or the rest of its environment.
