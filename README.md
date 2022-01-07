@@ -116,6 +116,7 @@ With these tools you can send video from one application to another.
 - [glsl-canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
   > The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command.
   - _glsl canvas requires small adjustments to the file, which will be solved by [#3][i3]._
+- [snippets](https://marketplace.visualstudio.com/items?itemName=synesthesia.synesthesia-snippets)
 
 [i3]: https://github.com/mattorp/synesthesia-ecosystem/issues/3
 
