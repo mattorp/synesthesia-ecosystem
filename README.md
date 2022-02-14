@@ -61,7 +61,10 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 
 ### Show variables
 
-Version 1.19 included the ability to set controls from the javascript file. This allows visualising values in the controller view. For the built in Synesthesia variables add these to your `script.js` and `scene.json` files:
+Version 1.19 included the ability to set controls from the javascript file. This allows visualising values in the controller view.
+![](2022-02-14-23-14-02.png)
+
+For the built in Synesthesia variables add these to your `script.js` and `scene.json` files:
 
 - [scene.json](https://gist.github.com/mattorp/60a571795e110c4746490450c4d6acf6)
 - [script.js](https://gist.github.com/22f2d21821f2175eda1eac4432e27c61)
