@@ -1,0 +1,270 @@
+{
+  "CONTROLS": [
+    {
+      "NAME": "ToggleOnBeat",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidPresence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "RandomOnBeat",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidHits",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidHighTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidHighLevel",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidHighHits",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "Level",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "Hits",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "PrimeBang",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidLevel",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "Intensity",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "OnBeat",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "HighTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "HighPresence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMTwitcher",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "HighLevel",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "HighHits",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "CurvedTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidHighPresence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMSin4",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BassHits",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BassExpoCurve",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BassPresence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "RawLevel",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMTri2",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "Time",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMConfidence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMTri",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "FadeInOut",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BassLevel",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BassTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMSin2",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "Presence",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "MidTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPM",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BPMSin",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    },
+    {
+      "NAME": "BeatTime",
+      "MAX": 1,
+      "MIN": 0,
+      "TYPE": "slider",
+      "UI_GROUP": "variables"
+    }
+  ]
+}

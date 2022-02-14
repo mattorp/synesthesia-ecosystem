@@ -66,8 +66,10 @@ Version 1.19 included the ability to set controls from the javascript file. This
 
 For the built in Synesthesia variables add these to your `script.js` and `scene.json` files:
 
-- [scene.json](https://gist.github.com/mattorp/60a571795e110c4746490450c4d6acf6)
-- [script.js](https://gist.github.com/22f2d21821f2175eda1eac4432e27c61)
+- [script.js](scene-development/showVariables/script.js)
+- [scene.json](scene-development/showVariables/scene.json)
+
+This can be used to visualise any value, including combined values, e.g. `Math.sin(TIME)+Math.tan(OnBeatTime)`.
 
 ## YouTube channels
 
