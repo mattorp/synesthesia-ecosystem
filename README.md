@@ -23,6 +23,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 - [Shaders](#shaders)
   - [Libraries](#libraries)
   - [Guides](#guides)
+  - [Show variables](#show-variables)
 - [YouTube channels](#youtube-channels)
 - [Art style](#art-style)
   - [Glitch Art](#glitch-art)
@@ -57,6 +58,13 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
    >Answers a lot of questions I've had about shiny shit
    >
    > \- @uFFFD
+
+### Show variables
+
+Version 1.19 included the ability to set controls from the javascript file. This allows visualising values in the controller view. For the built in Synesthesia variables add these to your `script.js` and `scene.json` files:
+
+- [scene.json](https://gist.github.com/mattorp/60a571795e110c4746490450c4d6acf6)
+- [script.js](https://gist.github.com/22f2d21821f2175eda1eac4432e27c61)
 
 ## YouTube channels
 
@@ -153,12 +161,12 @@ All but Spout works fine (though Spout wasn't really debugged extensively).
 The following commands produce a Wine prefix which worked in at least one case:
 
 ```bash
-$ WINEPREFIX=~/your-prefix-path WINEARCH=win32 wineboot -u # creates a new Wine prefix at the specified path
-$ WINEPREFIX=~/your-prefix-path winetricks -q vcrun2015 # installs Visual C++ Redistributable 2015 into the prefix
-$ WINEPREFIX=~/your-prefix-path winetricks -q corefonts # installs Microsoft core fonts into the prefix
-$ WINEPREFIX=~/your-prefix-path wine synesthesia-installer.msi # installs Synesthesia, just use all the defaults
-$ rm ~/your-prefix-path/drive_c/Program Files/Synesthesia/libEGL.dll # removes the libEGL.ddl shipped directly with Synesthesia, which for some reason doesn't work in Wine
-$ WINEPREFIX=~/your-prefix-path wine pfx/drive_c/Program\ Files/Synesthesia/Synesthesia.exe # finally start Synesthesia through Wine
+WINEPREFIX=~/your-prefix-path WINEARCH=win32 wineboot -u # creates a new Wine prefix at the specified path
+WINEPREFIX=~/your-prefix-path winetricks -q vcrun2015 # installs Visual C++ Redistributable 2015 into the prefix
+WINEPREFIX=~/your-prefix-path winetricks -q corefonts # installs Microsoft core fonts into the prefix
+WINEPREFIX=~/your-prefix-path wine synesthesia-installer.msi # installs Synesthesia, just use all the defaults
+rm ~/your-prefix-path/drive_c/Program Files/Synesthesia/libEGL.dll # removes the libEGL.ddl shipped directly with Synesthesia, which for some reason doesn't work in Wine
+WINEPREFIX=~/your-prefix-path wine pfx/drive_c/Program\ Files/Synesthesia/Synesthesia.exe # finally start Synesthesia through Wine
 ```
 
 ## FAQ
