@@ -48,6 +48,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
 ### Guides
 
 - [Synesthesia Resources](https://synesthesia.live/docs/resources/syn_resources.html)
+- [The art of the Shade](https://github.com/vanrez-nez/awesome-glsl)
 - [The Book of Shaders](https://thebookofshaders.com)
   > This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [The principles of painting with maths](https://www.youtube.com/watch?v=0ifChJ0nJfM)
