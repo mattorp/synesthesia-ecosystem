@@ -59,6 +59,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
    >Answers a lot of questions I've had about shiny shit
    >
    > \- @uFFFD
+- [Suricrasia Online](https://suricrasia.online/demoscene/functions)
 
 ### Show variables
 
