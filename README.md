@@ -61,6 +61,7 @@ The #feature-suggestions channel in [Discord](https://discord.gg/dMVvCgXxtU) may
    > \- @uFFFD
 - [Suricrasia Online](https://suricrasia.online/demoscene/functions)
 - [Shadertoy - Unofficial](https://shadertoyunofficial.wordpress.com)
+- [Shaders for Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
 
 ### Show variables
 
