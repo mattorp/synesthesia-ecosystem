@@ -147,8 +147,8 @@ With these tools you can send video from one application to another.
 
 ### APIs
 
-- [syn-rest](https://github.com/mattorp/syn-rest)
-  >This is a REST endpoint for Synesthesia.
+- [syn-http](https://github.com/mattorp/syn-http)
+  >This is a HTTP endpoint for Synesthesia.
 
 ## Projects
 
